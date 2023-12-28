@@ -1,3 +1,5 @@
+![image](https://github.com/Maxdev1017x/js-developer-pokedex/assets/117764643/0508b9d0-3757-4a39-aaa4-be320aebd212)
+![image](https://github.com/Maxdev1017x/js-developer-pokedex/assets/117764643/78cbbe1f-a3fd-4bb8-8324-4b37e9ca0e21)
 
 
 # Projeto Pokedex
